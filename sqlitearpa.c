@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <arpa/inet.h>
 #include <strings.h>
+#include <stdlib.h>
+#include <string.h>
 SQLITE_EXTENSION_INIT1
 
 static void arpaizev4Func(

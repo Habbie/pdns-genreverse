@@ -1,0 +1,1 @@
+Note: the -1 domain_id does not work with PowerDNS 3.0 and up. Be careful.
